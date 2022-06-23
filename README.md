@@ -17,5 +17,6 @@
 -  电报：@shijiangguo
 -  discord: zackguo#0843
 -  邮箱：guoshijiang2012@163.com
+-  发起人github: https://github.com/guoshijiang
 
 加入成功之后拉进入技术成长群
