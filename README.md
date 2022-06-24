@@ -18,7 +18,7 @@
 
 -  微信：LGZAXE
 -  电报：@shijiangguo
--  discord: zackguo#0843
+-  discord: seekguo#0843
 -  邮箱：guoshijiang2012@163.com
 -  发起人github: https://github.com/guoshijiang
 
