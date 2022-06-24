@@ -10,9 +10,9 @@
 
 [项目白皮书](https://savourdao.notion.site/SavourDao-3b6e4cb18d324fa39d236a26c64461a8)
 
-### 再开发的功能
+### 开发中的功能
 
-[HD 钱包模块]https://savourdao.notion.site/SavourDao-HD-c614f0eadfb54deea3584081b617286a
+[HD 钱包模块](https://savourdao.notion.site/SavourDao-HD-c614f0eadfb54deea3584081b617286a)
 
 ### 发起人联系方式
 
